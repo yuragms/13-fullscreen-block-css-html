@@ -1,0 +1,47 @@
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+/*Стили для демонстрации*/
+
+.wrapper {
+  min-height: 100%;
+}
+
+.fullscreen {
+}
+.fullscreen__body {
+}
+.fullscreen__title {
+}
+.fullscreen__text {
+}
+.fullscreen__link {
+}
+.content {
+}
+.content__body {
+}
+.footer {
+}
+.footer__body {
+}
